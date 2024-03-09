@@ -6,7 +6,7 @@ Visual Studio Code is a sophisticated piece of software that most people use to 
 
 If you need a VS Code extension for a device that isn’t connected to the internet, there is a workaround to accessing the extensions, however, you will need a second device with internet access. Here’s what you need to do:
 
-- 1. On the device with an active internet connection, open a browser of your choice and go to VS Code Marketplace’s URL.
+- `1.` On the device with an active internet connection, open a browser of your choice and go to VS Code Marketplace’s URL.
 
         https://marketplace.visualstudio.com/vscode
 
