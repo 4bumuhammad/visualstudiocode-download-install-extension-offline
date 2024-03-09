@@ -10,3 +10,6 @@ If you need a VS Code extension for a device that isn’t connected to the inter
 
         https://marketplace.visualstudio.com/vscode
 
+<p align="center">
+    <img src="./ss_001_marketplace_vsc.png" alt="ss_001_marketplace_vsc" style="display: block; margin: 0 auto;">
+</p>
