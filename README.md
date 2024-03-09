@@ -13,3 +13,9 @@ If you need a VS Code extension for a device that isn’t connected to the inter
 <p align="center">
     <img src="./ss_001_marketplace_vsc.png" alt="ss_001_marketplace_vsc" style="display: block; margin: 0 auto;">
 </p>
+
+- `2.` Click on the extension in which you’re interested. This will open a page that shows more details about the extension, including a brief description, the publisher’s name, tabs that show some FAQs, and a complete version changelog.
+
+<p align="center">
+    <img src="./ss_002_download_extension.png" alt="ss_002_download_extension" style="display: block; margin: 0 auto;">
+</p>
